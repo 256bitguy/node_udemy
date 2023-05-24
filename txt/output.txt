@@ -1,0 +1,2 @@
+1.hello evry one this is my file and i have started learning nodejs 
+ 2. the above code is written in app.js file
